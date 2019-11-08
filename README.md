@@ -1,2 +1,2 @@
 # Final_Project
-Fin
+Project number three for the September cohort at the University of Denver.
